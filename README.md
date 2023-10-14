@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend and flutter**
 
-- 📝 I regularly write articles on [@yazhiniganesan2022](@yazhiniganesan2022)
+- 📝 I regularly write articles on (@yazhiniganesan2022)
 
 - 💬 Ask me about **html,css and c programming**
 
