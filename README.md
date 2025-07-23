@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yazhini Ganesan</h1>
-<h3 align="center">Upcoming frontend developer.</h3>
+<h3 align="center">Upcoming Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazhiniganesan&label=Profile%20views&color=0e75b6&style=flat" alt="yazhiniganesan" /> </p>
 
-- 🌱 I’m currently learning **Frontend and flutter**
+- 🌱 I’m currently learning **Python **
 
 - 📝 I regularly write articles on [@yazhiniganesan2022](@yazhiniganesan2022)
 
