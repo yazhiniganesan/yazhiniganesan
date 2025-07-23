@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [@yazhiniganesan2022](@yazhiniganesan2022)
 
-- 💬 Ask me about **html,css and c programming**
+- 💬 Ask me about **html,css,SQL and Python **
 
 - 📫 How to reach me **yazhiniganesan2022@gmail.com**
 
